@@ -1,3 +1,4 @@
+New Doc:
 
 # How to use calculator:
 1. Run `python calculate.py`
